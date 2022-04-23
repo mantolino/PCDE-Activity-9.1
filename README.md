@@ -4,6 +4,6 @@
 
 - https://github.com/mantolino/PCDE-Activity-9.1.git
 
-- <git@github.com:mantolino/PCDE-Activity-9.1.git>
+- <a href="git@github.com:mantolino/PCDE-Activity-9.1.git">git@github.com:mantolino/PCDE-Activity-9.1.git</a>
 
-- <gh repo clone mantolino/PCDE-Activity-9.1>
+- gh repo clone mantolino/PCDE-Activity-9.1
